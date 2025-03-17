@@ -22,27 +22,5 @@ import io.cucumber.testng.TestNGCucumberRunner;
         })
 public class RunnerTest extends AbstractTestNGCucumberTests {
 
-//	private TestNGCucumberRunner testNGCucumberRunner;
-//
-//    @BeforeClass(alwaysRun = true)
-//    public void setUpClass() {
-//        testNGCucumberRunner = new TestNGCucumberRunner(this.getClass());
-//    }
-//
-//    @Test(groups = "cucumber", description = "Runs Cucumber Feature", dataProvider = "features")
-//    public void feature(CucumberFeatureWrapper cucumberFeature) {
-//        testNGCucumberRunner.runCucumber(cucumberFeature.getCucumberFeature());
-//    }
-//
-//    @DataProvider
-//    public Object[][] features() {
-//        return TestNGCucumberRunner.provideFeatures();
-//    }
-//
-//    @AfterClass(alwaysRun = true)
-//    public void tearDownClass() {
-//        testNGCucumberRunner.finish();
-//    }
-
 
 }
