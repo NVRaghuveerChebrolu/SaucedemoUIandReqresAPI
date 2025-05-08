@@ -1,23 +1,15 @@
-# QA Automation Assignment
+# QA Automation of Rest API and UI 
 
-We have added two tests: the first task is API-Test.feature and the second is UI-Test.feature.
-- For the API-Test.feature, please visit https://reqres.in/. This should contain all the requirements.
-- UI-Test.feature please visit https://www.saucedemo.com/
+I have added two tests: the first test is API-Test.feature and the second is UI-Test.feature.
+- For the API-Test.feature, I have used https://reqres.in/. (It contains all the requirements)
+- For the UI-Test.feature I have used https://www.saucedemo.com/
 
-
-Please DO use Page objects, make sure the code is reusable and feel free to improve the current code.
-
-**Note: We have intentionally added some bugs for you to debug.** 
-
-Please contact the HR department if you have any questions.
-
-
-Good luck!
-
+I have implemented Page Object Model, the code is reusable.
+ 
 ## Test Automation Framework
 
 - This is a Maven based framework
-- `pom.xml` should have everything you need to create and run the tests. Please add further dependencies if you require it.
+- `pom.xml` have everything you need to create and run the tests. Please add further dependencies if you require it.
 
 The following folder `src/test/java/AutomationTest/qumu` contains the following class:
 
